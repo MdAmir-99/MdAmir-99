@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Amir</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" img align="right" alt="Coding" width="400" /> </p>
 
 - 🔭 I’m currently working on **Trainee at Functionup**
 
