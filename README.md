@@ -1,7 +1,7 @@
 
 
 <img src="https://rb.gy/dsypas" img align="center" alt="Coding" width="100%" />
-<h1 align="center">Hi 👋, I'm Md Amir</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" img-align="center" alt="Waving" height="45px" width="45px"/>, I'm Md Amir</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" img align="right" alt="Coding" width="400" /> </p>
@@ -31,6 +31,6 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdamir-99&show_icons=true&locale=en" alt="mdamir-99" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdamir-99&show_icons=true&locale=en" alt="mdamir-99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamir-99&" alt="mdamir-99" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdamir-99&" alt="mdamir-99" /></p>
