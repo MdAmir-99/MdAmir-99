@@ -1,6 +1,6 @@
 
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D16AQFj-Xk2Pz5taw/profile-displaybackgroundimage-shrink_350_1400/0/1656789157825?e=1668643200&v=beta&t=Q1E9E6mn6xgidl63aR4xiairm4kgLvaUD2A5ADlCp3w" img align="center" alt="Coding" width="100%" />
+<img src="https://tinyurl.com/py4s2yu8" img align="center" alt="Coding" width="100%" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" img-align="center" alt="Waving" height="45px" width="45px"/>, I'm Md Amir</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
